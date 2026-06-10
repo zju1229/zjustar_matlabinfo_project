@@ -4,11 +4,11 @@
 > 为了减少*纠纷*,我未设计**pro版付款渠道**,`HTML`上仅用于演示
 
 - 6月8日报告
-  + [早报](./history/0608moring_report.html)
+  + [早报](./history/0608morning_report.html)
   + [晚报](./history/0608evening_report.html)
 - 6月9日报告
-  + [早报](./history/0609moring_report.html)
+  + [早报](./history/0609morning_report.html)
   + [晚报](./history/0609evening_report.html)
 - 6月10日报告
-  + [早报](./history/0610moring_report.html)
+  + [早报](./history/0610morning_report.html)
   + [晚报](./history/0610evening_report.html)
