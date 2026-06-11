@@ -12,3 +12,8 @@
 - 6月10日报告
   + [早报](./history/0610morning_report.html)
   + [晚报](./history/0610evening_report.html)
+
+> 免责声明：
+> 本项目为`Zhejiang University`*人工智能基础（A）* 课程作业，完全非商业用途。  
+> 项目中使用的名称`baltaM`,`zjustar_matlabinfo_project`为虚构，与The MathWorks, Inc.的MATLAB®注册商标及其产品无关。  
+> 本站无任何实际付费功能，所有“Pro版”按钮仅为演示设计，不构成商业交易。  
